@@ -39,7 +39,7 @@ body {
 .img1 {
     height: 400px;
     width: 396px;
-    background-image: url("circuito_simple.png");
+    background-image: url("img/circuito_simple.png");
     background-repeat: no-repeat;
     margin-left: 560px;
 }
@@ -59,7 +59,7 @@ body {
 .img2 {
     height: 100%;
     width: 100%;
-    background-image: url("gran-colombia.jpg");
+    background-image: url("img/gran-colombia.jpg");
     background-repeat: no-repeat;
     float: left;
     background-position: center;
@@ -69,7 +69,7 @@ body {
     height: 300px;
     width: 100%;
     background-repeat: no-repeat;
-    background-image: url("Inglés\ de\ josué.jpg");
+    background-image: url("img/Inglés\ de\ josué.jpg");
     background-position: center;
     float: left;
 }
@@ -78,7 +78,7 @@ body {
     width: 100%;
     height: 278px;
     background-repeat: no-repeat;
-    background-image: url("Más\ inglés\ de\ Josué.png");
+    background-image: url("img/Más\ inglés\ de\ Josué.png");
     background-position: center;
     float: left;
 }
@@ -87,7 +87,7 @@ body {
     width: 100%;
     height: 626px;
     background-repeat: no-repeat;
-    background-image: url("persona-durmiendo-cama-estilo-flat_23-2148147396.avif");
+    background-image: url("img/persona-durmiendo-cama-estilo-flat_23-2148147396.avif");
     background-position: center;
     float: left;
 }
@@ -96,7 +96,7 @@ body {
     width: 100%;
     height: 800px;
     background-repeat: no-repeat;
-    background-image: url("ensalada-de-lechuga-y-tomate-foto-cerca.jpg");
+    background-image: url("img/ensalada-de-lechuga-y-tomate-foto-cerca.jpg");
     background-position: center;
     float: left;
 }
@@ -105,7 +105,7 @@ body {
     width: 100%;
     height: 698px;
     background-repeat: no-repeat;
-    background-image: url("sentadilla.webp");
+    background-image: url("img/sentadilla.webp");
     background-position: center;
     float: left;
 }
@@ -115,7 +115,7 @@ body {
     height: 338px;
     ;
     background-repeat: no-repeat;
-    background-image: url("libro.jpg");
+    background-image: url("img/libro.avif");
     background-position: center;
     float: left;
 }
@@ -125,7 +125,7 @@ body {
     height: 626px;
     ;
     background-repeat: no-repeat;
-    background-image: url("medico.jpg");
+    background-image: url("img/medico.avif");
     background-position: center;
     float: left;
 }
@@ -135,7 +135,7 @@ body {
     height: 867px;
     ;
     background-repeat: no-repeat;
-    background-image: url("naturaleza.jpg");
+    background-image: url("img/arboleda.jpg");
     background-position: center;
     float: left;
 }
@@ -144,7 +144,7 @@ body {
     width: 100%;
     height: 626px;
     background-repeat: no-repeat;
-    background-image: url("autocuidado.avif");
+    background-image: url("img/autocuidado.avif");
     background-position: center;
     float: left;
 }
@@ -154,7 +154,7 @@ body {
     height: 500px;
     ;
     background-repeat: no-repeat;
-    background-image: url("Badminton-Explicacion-para-ninos.jpg");
+    background-image: url("img/Badminton-Explicacion-para-ninos.jpg");
     background-position: center;
     float: left;
 }
@@ -163,7 +163,7 @@ body {
     width: 100%;
     height: 490px;
     background-repeat: no-repeat;
-    background-image: url("centro-comercial-mas-grande-de-colombia.jpg");
+    background-image: url("img/centro-comercial-mas-grande-de-colombia.jpg");
     background-position: center;
     float: left;
 }
@@ -173,7 +173,7 @@ body {
     height: 400px;
     ;
     background-repeat: no-repeat;
-    background-image: url("cepillo.jpg");
+    background-image: url("img/cepillo.jpg");
     background-position: center;
     float: left;
 }
@@ -183,7 +183,7 @@ body {
     height: 338px;
     ;
     background-repeat: no-repeat;
-    background-image: url("ducha.avif");
+    background-image: url("img/ducha.avif");
     background-position: center;
     float: left;
 }
@@ -193,7 +193,7 @@ body {
     height: 612px;
     ;
     background-repeat: no-repeat;
-    background-image: url("nofu.jpg");
+    background-image: url("img/nofu.jpg");
     background-position: center;
     float: left;
 }
@@ -221,7 +221,7 @@ body {
 .img3 {
     height: 682px;
     width: 664px;
-    background-image: url("segundo.jpg");
+    background-image: url("img/segundo.jpg");
     float: left;
     background-repeat: no-repeat;
 }
@@ -236,7 +236,7 @@ body {
     width: 1300px;
     height: 1599px;
     background-repeat: no-repeat;
-    background-image: url("");
+    background-image: url("img/josue.jpeg");
     background-position: center;
     float: left;
 }
@@ -263,39 +263,7 @@ body {
     width: 100%;
     height: 578px;
     background-repeat: no-repeat;
-    background-image: url("mapam.jpg");
-    background-position: center;
-    float: left;
-}
-.img6{
-    width: 100%;
-    height: 1600px;
-    background-repeat: no-repeat;
-    background-image: url("img\ de\ ingles.PNG");
-    background-position: center;
-    float: left;
-}
-.img7{
-    width: 100%;
-    height: 1600px;
-    background-repeat: no-repeat;
-    background-image: url("img\ de\ ingles\ 2.PNG");
-    background-position: center;
-    float: left;
-}
-.img8{
-    width: 100%;
-    height: 1600px;
-    background-repeat: no-repeat;
-    background-image: url("img\ de\ ingles\ 3.PNG");
-    background-position: center;
-    float: left;
-}
-.img9{
-    width: 100%;
-    height: 1600px;
-    background-repeat: no-repeat;
-    background-image: url("img\ de\ ingles\ 4.PNG");
+    background-image: url("img/mapam.jpg");
     background-position: center;
     float: left;
 }

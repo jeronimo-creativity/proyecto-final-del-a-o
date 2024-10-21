@@ -4,11 +4,7 @@
 }
 
 body{
-    background-image: url(fondo\ de\ inicio.jpg);
-    background-size: cover;
     background-color: black;
-    color: black;
-    position: absolute;
 }
 
 h1 {
@@ -42,7 +38,6 @@ footer {
     background-color: rgb(7, 3, 3);
     color: rgb(225, 211, 211);
     margin-top: 40px;
-    background-position: center;
 }
 
 footer p {
@@ -52,7 +47,7 @@ footer p {
 }
 
 h2{
-    color: rgb(250, 5, 5);
+    color: aliceblue;
 }
 
 p{
@@ -71,10 +66,5 @@ ul, ol {
     color: #fffcfc;
     text-align: center;
     padding: 50px;
-}
-.correo{
-    padding: 10px;
-    width: 10px;
-    color: #2309eb;
 }
 

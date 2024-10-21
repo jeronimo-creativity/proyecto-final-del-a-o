@@ -75,9 +75,9 @@ ul, ol{
 .cont-menu li a{
     color: #9e1616;
     text-decoration: none;
-    padding: -1px 15px;
+    padding: 10px 15px;
     display: block;
-    font-size: 17px;
+    font-size: 22px;
 }
 
 .cont-menu li{
